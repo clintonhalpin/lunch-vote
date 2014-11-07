@@ -2,7 +2,7 @@
 
 Vote for lunch with friends
 
-![screen shot 2014-11-06 at 11 01 28 pm](https://cloud.githubusercontent.com/assets/523933/4948290/e9802256-6608-11e4-9fd9-9a113b84f296.png)
+![screen shot 2014-11-06 at 11 09 01 pm](https://cloud.githubusercontent.com/assets/523933/4948377/2c7f4734-660a-11e4-860b-25c88b8277af.png)
 
 =
 
