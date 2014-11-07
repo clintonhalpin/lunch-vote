@@ -10,8 +10,7 @@ Vote for lunch with friends
 # Getting Started
 
 ```shell
-npm i
-bower i
+npm i && bower i
 
 # Build dist 
 gulp dist
